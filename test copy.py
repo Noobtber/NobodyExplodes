@@ -1,4 +1,4 @@
-# main.py
+# test copy.py
 
 from complicatedWiresModule import complicatedWires
 
